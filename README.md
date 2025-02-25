@@ -4,7 +4,7 @@
 This database represents a yoga studio schema designed to manage various aspects of the studio's operations. 
 
 ### Documenation 
-For a detailed guide, download full project documentation - https://drive.google.com/file/d/1h6hLsAxZ9FNvZTw7w8erj_lo2gj9aFPA/view?usp=sharing. 
+For a detailed guide, download full project documentation - https://drive.google.com/file/d/1qdkdn8J27eaHqMIPtm6HD8KEmM443A1q/view?usp=sharing
 
 ### Test Stradegy 
 Find a sample test stradegy document in the repository root.
