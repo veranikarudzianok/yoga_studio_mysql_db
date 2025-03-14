@@ -4,7 +4,7 @@
 This database represents a yoga studio schema designed to manage various aspects of the studio's operations. 
 
 ## Full Documenation 
-For a detailed guide, download full project documentation - https://drive.google.com/file/d/1qdkdn8J27eaHqMIPtm6HD8KEmM443A1q/view?usp=sharing
+For a detailed guide, check full project documentation - [yoga_studio_mysql_db_documentation](https://my-test-workspace.notion.site/yoga_studio_mysql_db-MySQL-database-by-Veranika-Rudzianok-1a21a48a300480de91bad0b20bf5901c?pvs=4)
 
 ## Quick start
 1. Download repository's content in the ZIP file
