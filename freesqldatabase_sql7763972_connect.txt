@@ -1,7 +1,0 @@
-To connect to the database use these details:
-
-Host: sql7.freesqldatabase.com
-Database name: sql7763972
-Database user: sql7763972
-Database password: 4yDh5F2pBT
-Port number: 3306
